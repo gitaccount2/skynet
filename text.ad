@@ -1,0 +1,28 @@
+
+ASCIIDOC FROM TEXT.AD
+
+.An example table
+[width="60%",options="header"]
+|==============================================
+| Option          | Description
+| -a 'USER GROUP' | Add 'USER' to 'GROUP'.
+| -R 'GROUP'      | Disables access to 'GROUP'.
+|==============================================
+
+.An example example
+===============================================
+Lorum ipum...
+===============================================
+
+[[X1]]
+Sub-section with Anchor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sub-section at level 2.
+
+Chapter Sub-section
+^^^^^^^^^^^^^^^^^^^
+Sub-section at level 3.
+
+Chapter Sub-section
++++++++++++++++++++
+Sub-section at level 4.
